@@ -1,0 +1,50 @@
+<annotation>
+	<folder>test</folder>
+	<filename>c (102).png</filename>
+	<path>C:\Users\rulaz\Desktop\HackMx-2019\workspace\training_demo\images\test\c (102).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>818</xmin>
+			<ymin>509</ymin>
+			<xmax>1033</xmax>
+			<ymax>685</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1110</xmin>
+			<ymin>269</ymin>
+			<xmax>1399</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1430</xmin>
+			<ymin>172</ymin>
+			<xmax>1594</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

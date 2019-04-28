@@ -1,0 +1,478 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+a (1).png,1920,1080,pothole,386,546,497,597
+a (1).png,1920,1080,pothole,621,555,861,633
+a (1).png,1920,1080,pothole,1019,614,1074,650
+a (10).png,1920,1080,pothole,993,337,1166,408
+a (11).png,1920,1080,pothole,1144,486,1322,576
+a (11).png,1920,1080,pothole,300,458,603,520
+a (11).png,1920,1080,pothole,845,460,1086,506
+a (12).png,1920,1080,pothole,771,392,914,477
+a (12).png,1920,1080,pothole,987,337,1135,407
+a (13).png,1920,1080,pothole,625,373,788,485
+a (13).png,1920,1080,pothole,978,237,1129,267
+a (14).png,1920,1080,pothole,391,515,661,663
+a (14).png,1920,1080,pothole,990,295,1186,349
+a (15).png,1920,1080,pothole,499,675,683,772
+a (15).png,1920,1080,pothole,749,582,903,654
+a (15).png,1920,1080,pothole,1313,490,1493,566
+a (16).png,1920,1080,pothole,891,532,1021,653
+a (16).png,1920,1080,pothole,1038,281,1110,320
+a (16).png,1920,1080,pothole,1135,262,1205,312
+a (17).png,1920,1080,pothole,823,377,922,445
+a (17).png,1920,1080,pothole,1251,446,1339,507
+a (17).png,1920,1080,pothole,1323,633,1638,805
+a (17).png,1920,1080,pothole,1665,697,1821,784
+a (18).png,1920,1080,pothole,944,698,1106,793
+a (19).png,1920,1080,pothole,1414,576,1717,745
+a (19).png,1920,1080,pothole,934,303,1177,424
+a (19).png,1920,1080,pothole,560,210,770,259
+a (19).png,1920,1080,pothole,729,249,982,334
+a (19).png,1920,1080,pothole,997,243,1086,279
+a (2).png,1920,1080,pothole,904,516,1132,595
+a (2).png,1920,1080,pothole,545,569,687,624
+a (2).png,1920,1080,pothole,1293,514,1364,560
+a (20).png,1920,1080,pothole,1321,447,1539,802
+a (21).png,1920,1080,pothole,513,440,852,656
+a (21).png,1920,1080,pothole,1470,453,1734,581
+a (22).png,1920,1080,pothole,1097,485,1247,549
+a (22).png,1920,1080,pothole,834,506,909,550
+a (22).png,1920,1080,pothole,936,445,1001,475
+a (22).png,1920,1080,pothole,797,466,857,486
+a (22).png,1920,1080,pothole,779,437,843,463
+a (22).png,1920,1080,pothole,656,427,731,453
+a (23).png,1920,1080,pothole,1035,307,1249,408
+a (23).png,1920,1080,pothole,556,364,690,419
+a (23).png,1920,1080,pothole,736,258,852,295
+a (23).png,1920,1080,pothole,486,294,621,338
+a (23).png,1920,1080,pothole,661,242,744,272
+a (23).png,1920,1080,pothole,200,238,351,281
+a (23).png,1920,1080,pothole,442,242,564,288
+a (23).png,1920,1080,pothole,162,128,227,147
+a (23).png,1920,1080,pothole,1748,520,1874,576
+a (24).png,1920,1080,pothole,879,242,1071,303
+a (25).png,1920,1080,pothole,769,493,900,623
+a (25).png,1920,1080,pothole,481,168,570,210
+a (26).png,1920,1080,pothole,1534,373,1649,458
+a (26).png,1920,1080,pothole,852,295,1023,411
+a (27).png,1920,1080,pothole,1183,428,1479,558
+a (28).png,1920,1080,pothole,908,299,1001,350
+a (29).png,1920,1080,pothole,482,354,1066,532
+a (3).png,1920,1080,pothole,996,530,1130,612
+a (30).png,1920,1080,pothole,818,198,921,253
+a (31).png,1920,1080,pothole,262,449,791,664
+a (32).png,1920,1080,pothole,792,537,1327,806
+a (33).png,1920,1080,pothole,747,641,879,698
+a (34).png,1920,1080,pothole,730,569,856,632
+a (35).png,1920,1080,pothole,645,701,747,790
+a (36).png,1920,1080,pothole,919,480,1023,549
+a (36).png,1920,1080,pothole,577,524,693,568
+a (37).png,1920,1080,pothole,771,464,977,564
+a (38).png,1920,1080,pothole,899,389,981,449
+a (38).png,1920,1080,pothole,1038,342,1152,386
+a (38).png,1920,1080,pothole,1034,623,1205,730
+a (39).png,1920,1080,pothole,1029,454,1084,479
+a (39).png,1920,1080,pothole,1196,425,1257,450
+a (4).png,1920,1080,pothole,749,498,860,555
+a (40).png,1920,1080,pothole,752,421,873,468
+a (40).png,1920,1080,pothole,521,364,665,438
+a (41).png,1920,1080,pothole,814,525,925,579
+a (41).png,1920,1080,pothole,618,477,739,536
+a (42).png,1920,1080,pothole,839,493,1075,672
+a (43).png,1920,1080,pothole,900,566,1000,625
+a (43).png,1920,1080,pothole,1068,324,1147,359
+a (44).png,1920,1080,pothole,1023,586,1088,628
+a (45).png,1920,1080,pothole,596,615,688,677
+a (45).png,1920,1080,pothole,756,515,813,562
+a (46).png,1920,1080,pothole,997,416,1064,455
+a (47).png,1920,1080,pothole,890,325,960,384
+a (47).png,1920,1080,pothole,1149,328,1251,379
+a (47).png,1920,1080,pothole,1273,388,1316,414
+a (5).png,1920,1080,pothole,1068,334,1316,421
+a (50).png,1920,1080,pothole,664,406,773,480
+a (50).png,1920,1080,pothole,1205,558,1274,654
+a (50).png,1920,1080,pothole,1230,362,1325,418
+a (51).png,1920,1080,pothole,952,466,1106,540
+a (51).png,1920,1080,pothole,868,508,1021,592
+a (52).png,1920,1080,pothole,518,503,729,645
+a (52).png,1920,1080,pothole,1170,243,1312,299
+a (52).png,1920,1080,pothole,1105,299,1203,345
+a (52).png,1920,1080,pothole,931,218,1053,285
+a (53).png,1920,1080,pothole,940,584,1042,651
+a (53).png,1920,1080,pothole,951,507,1057,580
+a (53).png,1920,1080,pothole,1025,469,1095,502
+a (54).png,1920,1080,pothole,1631,746,1791,879
+a (54).png,1920,1080,pothole,877,299,969,338
+a (54).png,1920,1080,pothole,1017,208,1083,229
+a (54).png,1920,1080,pothole,1058,279,1132,325
+a (55).png,1920,1080,pothole,770,542,897,612
+a (55).png,1920,1080,pothole,881,818,968,880
+a (56).png,1920,1080,pothole,1331,582,1810,798
+a (56).png,1920,1080,pothole,234,475,747,854
+a (57).png,1920,1080,pothole,445,429,1064,645
+a (58).png,1920,1080,pothole,730,507,1274,760
+a (59).png,1920,1080,pothole,1070,280,1190,343
+a (6).png,1920,1080,pothole,797,219,887,241
+a (6).png,1920,1080,pothole,1038,202,1077,221
+a (6).png,1920,1080,pothole,1186,151,1251,166
+a (60).png,1920,1080,pothole,581,488,845,734
+a (61).png,1920,1080,pothole,1547,723,1770,850
+a (62).png,1920,1080,pothole,986,251,1178,323
+a (62).png,1920,1080,pothole,1052,201,1118,246
+a (62).png,1920,1080,pothole,1586,527,1699,615
+a (63).png,1920,1080,pothole,432,280,640,392
+a (63).png,1920,1080,pothole,460,249,547,285
+a (63).png,1920,1080,pothole,1029,381,1119,441
+a (64).png,1920,1080,pothole,1466,414,1762,508
+a (64).png,1920,1080,pothole,1593,349,1683,408
+a (65).png,1920,1080,pothole,949,305,1129,373
+a (65).png,1920,1080,pothole,1003,262,1069,301
+a (7).png,1920,1080,pothole,1357,834,1791,1062
+a (8).png,1920,1080,pothole,914,463,1100,551
+a (9).png,1920,1080,pothole,1135,363,1275,441
+Captura de pantalla (7).png,1366,768,pothole,645,334,784,374
+Captura de pantalla (7).png,1366,768,pothole,572,267,645,299
+Captura de pantalla (7).png,1366,768,pothole,396,524,500,574
+Captura de pantalla (19).png,1366,768,pothole,679,297,790,335
+Captura de pantalla (113).png,1366,768,pothole,793,309,918,356
+Captura de pantalla (115).png,1366,768,pothole,628,321,727,382
+Captura de pantalla (116).png,1366,768,pothole,539,356,611,378
+Captura de pantalla (117).png,1366,768,pothole,572,320,692,385
+Captura de pantalla (118).png,1366,768,pothole,600,329,643,384
+Captura de pantalla (119).png,1366,768,pothole,899,200,997,228
+Captura de pantalla (119).png,1366,768,pothole,1020,202,1078,222
+Captura de pantalla (119).png,1366,768,pothole,738,270,822,304
+Captura de pantalla (120).png,1366,768,pothole,536,422,643,482
+Captura de pantalla (121).png,1366,768,pothole,570,259,735,310
+Captura de pantalla (122).png,1366,768,pothole,284,397,364,443
+Captura de pantalla (122).png,1366,768,pothole,549,247,631,289
+Captura de pantalla (122).png,1366,768,pothole,479,185,552,204
+Captura de pantalla (122).png,1366,768,pothole,664,204,796,240
+Captura de pantalla (123).png,1366,768,pothole,550,309,713,389
+Captura de pantalla (123).png,1366,768,pothole,874,261,921,277
+Captura de pantalla (20).png,1366,768,pothole,392,331,465,371
+Captura de pantalla (124).png,1366,768,pothole,660,304,867,471
+Captura de pantalla (124).png,1366,768,pothole,606,68,663,106
+Captura de pantalla (124).png,1366,768,pothole,1004,304,1164,365
+Captura de pantalla (124).png,1366,768,pothole,470,306,554,377
+Captura de pantalla (21).png,1366,768,pothole,590,300,692,360
+Captura de pantalla (22).png,1366,768,pothole,786,272,834,293
+Captura de pantalla (23).png,1366,768,pothole,642,382,746,434
+Captura de pantalla (24).png,1366,768,pothole,643,259,672,271
+Captura de pantalla (24).png,1366,768,pothole,781,203,818,214
+Captura de pantalla (25).png,1366,768,pothole,563,350,611,393
+Captura de pantalla (25).png,1366,768,pothole,856,627,961,732
+Captura de pantalla (26).png,1366,768,pothole,806,235,839,246
+Captura de pantalla (26).png,1366,768,pothole,921,327,965,349
+Captura de pantalla (27).png,1366,768,pothole,765,379,811,395
+Captura de pantalla (28).png,1366,768,pothole,390,307,443,342
+Captura de pantalla (9).png,1366,768,pothole,670,327,778,402
+Captura de pantalla (29).png,1366,768,pothole,511,246,536,260
+Captura de pantalla (30).png,1366,768,pothole,631,135,720,161
+Captura de pantalla (31).png,1366,768,pothole,724,340,782,382
+Captura de pantalla (32).png,1366,768,pothole,545,256,610,281
+Captura de pantalla (33).png,1366,768,pothole,706,396,865,479
+Captura de pantalla (34).png,1366,768,pothole,714,328,881,407
+Captura de pantalla (34).png,1366,768,pothole,543,357,634,415
+Captura de pantalla (35).png,1366,768,pothole,734,370,846,438
+Captura de pantalla (35).png,1366,768,pothole,617,293,711,346
+Captura de pantalla (36).png,1366,768,pothole,536,304,970,465
+Captura de pantalla (36).png,1366,768,pothole,2,302,324,409
+Captura de pantalla (37).png,1366,768,pothole,534,186,596,249
+Captura de pantalla (37).png,1366,768,pothole,554,254,671,309
+Captura de pantalla (38).png,1366,768,pothole,765,297,1024,428
+Captura de pantalla (38).png,1366,768,pothole,385,174,664,346
+Captura de pantalla (11).png,1366,768,pothole,682,213,752,245
+Captura de pantalla (39).png,1366,768,pothole,542,245,793,413
+Captura de pantalla (39).png,1366,768,pothole,738,150,847,225
+Captura de pantalla (40).png,1366,768,pothole,688,288,738,304
+Captura de pantalla (40).png,1366,768,pothole,677,247,707,264
+Captura de pantalla (41).png,1366,768,pothole,727,289,859,400
+Captura de pantalla (42).png,1366,768,pothole,627,210,721,254
+Captura de pantalla (42).png,1366,768,pothole,689,179,736,196
+Captura de pantalla (43).png,1366,768,pothole,634,418,834,570
+Captura de pantalla (43).png,1366,768,pothole,672,329,746,365
+Captura de pantalla (43).png,1366,768,pothole,532,343,634,400
+Captura de pantalla (43).png,1366,768,pothole,513,188,567,211
+Captura de pantalla (43).png,1366,768,pothole,659,238,739,277
+Captura de pantalla (43).png,1366,768,pothole,514,263,603,303
+Captura de pantalla (44).png,1366,768,pothole,418,342,615,482
+Captura de pantalla (44).png,1366,768,pothole,589,229,709,261
+Captura de pantalla (44).png,1366,768,pothole,692,200,728,218
+Captura de pantalla (45).png,1366,768,pothole,725,252,788,290
+Captura de pantalla (45).png,1366,768,pothole,663,302,796,356
+Captura de pantalla (45).png,1366,768,pothole,575,284,613,300
+Captura de pantalla (45).png,1366,768,pothole,378,356,457,382
+Captura de pantalla (46).png,1366,768,pothole,677,243,736,264
+Captura de pantalla (46).png,1366,768,pothole,652,274,702,299
+Captura de pantalla (46).png,1366,768,pothole,484,249,540,278
+Captura de pantalla (47).png,1366,768,pothole,620,279,718,314
+Captura de pantalla (48).png,1366,768,pothole,679,247,804,336
+Captura de pantalla (48).png,1366,768,pothole,681,370,742,424
+Captura de pantalla (12).png,1366,768,pothole,347,240,472,317
+Captura de pantalla (12).png,1366,768,pothole,959,370,1082,440
+Captura de pantalla (49).png,1366,768,pothole,734,395,859,445
+Captura de pantalla (49).png,1366,768,pothole,642,357,696,390
+Captura de pantalla (51).png,1366,768,pothole,403,302,540,390
+Captura de pantalla (52).png,1366,768,pothole,450,371,539,404
+Captura de pantalla (52).png,1366,768,pothole,793,300,835,315
+Captura de pantalla (52).png,1366,768,pothole,679,284,725,306
+Captura de pantalla (53).png,1366,768,pothole,628,417,706,488
+Captura de pantalla (53).png,1366,768,pothole,690,307,738,336
+Captura de pantalla (54).png,1366,768,pothole,767,421,925,499
+Captura de pantalla (55).png,1366,768,pothole,597,513,677,564
+Captura de pantalla (56).png,1366,768,pothole,671,292,749,313
+Captura de pantalla (56).png,1366,768,pothole,446,278,564,313
+Captura de pantalla (57).png,1366,768,pothole,792,368,913,443
+Captura de pantalla (58).png,1366,768,pothole,510,265,679,293
+Captura de pantalla (59).png,1366,768,pothole,367,265,610,374
+Captura de pantalla (13).png,1366,768,pothole,528,260,610,311
+Captura de pantalla (13).png,1366,768,pothole,692,206,750,235
+Captura de pantalla (60).png,1366,768,pothole,559,278,695,311
+Captura de pantalla (61).png,1366,768,pothole,602,225,759,324
+Captura de pantalla (62).png,1366,768,pothole,417,293,518,360
+Captura de pantalla (62).png,1366,768,pothole,488,372,625,424
+Captura de pantalla (63).png,1366,768,pothole,809,286,889,334
+Captura de pantalla (63).png,1366,768,pothole,653,368,750,442
+Captura de pantalla (64).png,1366,768,pothole,492,425,568,456
+Captura de pantalla (65).png,1366,768,pothole,425,278,542,314
+Captura de pantalla (66).png,1366,768,pothole,620,317,724,364
+Captura de pantalla (67).png,1366,768,pothole,486,250,634,292
+Captura de pantalla (68).png,1366,768,pothole,418,220,621,272
+Captura de pantalla (69).png,1366,768,pothole,460,360,547,392
+Captura de pantalla (15).png,1366,768,pothole,482,327,628,436
+Captura de pantalla (15).png,1366,768,pothole,1222,375,1364,449
+Captura de pantalla (70).png,1366,768,pothole,642,267,775,336
+Captura de pantalla (71).png,1366,768,pothole,478,157,639,229
+Captura de pantalla (72).png,1366,768,pothole,578,309,738,490
+Captura de pantalla (73).png,1366,768,pothole,557,257,877,327
+Captura de pantalla (74).png,1366,768,pothole,692,381,763,417
+Captura de pantalla (74).png,1366,768,pothole,617,268,696,321
+Captura de pantalla (74).png,1366,768,pothole,477,229,553,261
+Captura de pantalla (74).png,1366,768,pothole,488,293,578,327
+Captura de pantalla (75).png,1366,768,pothole,332,411,402,465
+Captura de pantalla (75).png,1366,768,pothole,618,368,811,400
+Captura de pantalla (75).png,1366,768,pothole,975,377,1042,438
+Captura de pantalla (75).png,1366,768,pothole,734,520,789,578
+Captura de pantalla (76).png,1366,768,pothole,872,440,934,475
+Captura de pantalla (76).png,1366,768,pothole,975,631,1043,677
+Captura de pantalla (76).png,1366,768,pothole,650,386,711,407
+Captura de pantalla (77).png,1366,768,pothole,407,274,528,332
+Captura de pantalla (77).png,1366,768,pothole,636,275,899,427
+Captura de pantalla (78).png,1366,768,pothole,702,288,828,334
+Captura de pantalla (80).png,1366,768,pothole,588,378,657,413
+Captura de pantalla (80).png,1366,768,pothole,945,313,996,339
+Captura de pantalla (80).png,1366,768,pothole,745,322,796,346
+Captura de pantalla (80).png,1366,768,pothole,882,361,950,415
+Captura de pantalla (16).png,1366,768,pothole,721,203,781,218
+Captura de pantalla (82).png,1366,768,pothole,567,299,622,331
+Captura de pantalla (82).png,1366,768,pothole,736,384,790,421
+Captura de pantalla (82).png,1366,768,pothole,100,250,167,286
+Captura de pantalla (82).png,1366,768,pothole,321,207,432,232
+Captura de pantalla (82).png,1366,768,pothole,320,365,386,396
+Captura de pantalla (83).png,1366,768,pothole,271,232,407,346
+Captura de pantalla (84).png,1366,768,pothole,529,272,682,335
+Captura de pantalla (85).png,1366,768,pothole,660,311,768,384
+Captura de pantalla (86).png,1366,768,pothole,610,288,677,350
+Captura de pantalla (87).png,1366,768,pothole,588,361,674,411
+Captura de pantalla (88).png,1366,768,pothole,575,293,668,322
+Captura de pantalla (89).png,1366,768,pothole,868,218,913,242
+Captura de pantalla (90).png,1366,768,pothole,754,304,828,368
+Captura de pantalla (91).png,1366,768,pothole,613,239,697,278
+Captura de pantalla (17).png,1366,768,pothole,546,234,617,265
+Captura de pantalla (92).png,1366,768,pothole,511,197,568,234
+Captura de pantalla (93).png,1366,768,pothole,571,250,724,284
+Captura de pantalla (93).png,1366,768,pothole,296,247,356,267
+Captura de pantalla (93).png,1366,768,pothole,381,222,489,259
+Captura de pantalla (94).png,1366,768,pothole,610,335,736,379
+Captura de pantalla (94).png,1366,768,pothole,367,335,427,353
+Captura de pantalla (94).png,1366,768,pothole,454,309,517,338
+Captura de pantalla (95).png,1366,768,pothole,445,186,518,207
+Captura de pantalla (95).png,1366,768,pothole,718,296,810,346
+Captura de pantalla (96).png,1366,768,pothole,617,325,661,340
+Captura de pantalla (97).png,1366,768,pothole,1228,303,1365,356
+Captura de pantalla (97).png,1366,768,pothole,709,239,761,274
+Captura de pantalla (98).png,1366,768,pothole,461,336,542,379
+Captura de pantalla (99).png,1366,768,pothole,550,240,607,268
+Captura de pantalla (100).png,1366,768,pothole,692,338,782,413
+Captura de pantalla (101).png,1366,768,pothole,582,272,749,367
+Captura de pantalla (101).png,1366,768,pothole,1200,322,1364,406
+Captura de pantalla (101).png,1366,768,pothole,442,392,693,565
+Captura de pantalla (101).png,1366,768,pothole,764,425,1093,749
+Captura de pantalla (18).png,1366,768,pothole,384,238,472,267
+Captura de pantalla (18).png,1366,768,pothole,610,238,689,275
+Captura de pantalla (18).png,1366,768,pothole,714,307,771,350
+Captura de pantalla (102).png,1366,768,pothole,634,342,734,413
+Captura de pantalla (102).png,1366,768,pothole,693,303,772,339
+Captura de pantalla (102).png,1366,768,pothole,4,496,206,602
+Captura de pantalla (103).png,1366,768,pothole,1024,443,1234,556
+Captura de pantalla (103).png,1366,768,pothole,686,359,818,452
+Captura de pantalla (103).png,1366,768,pothole,510,234,638,299
+Captura de pantalla (103).png,1366,768,pothole,307,206,396,250
+Captura de pantalla (103).png,1366,768,pothole,377,257,497,296
+Captura de pantalla (103).png,1366,768,pothole,332,299,515,370
+Captura de pantalla (104).png,1366,768,pothole,527,397,707,646
+Captura de pantalla (104).png,1366,768,pothole,803,168,970,245
+Captura de pantalla (104).png,1366,768,pothole,449,175,528,209
+Captura de pantalla (105).png,1366,768,pothole,474,320,804,489
+Captura de pantalla (105).png,1366,768,pothole,857,447,1067,561
+Captura de pantalla (106).png,1366,768,pothole,600,200,697,250
+Captura de pantalla (107).png,1366,768,pothole,689,404,811,457
+Captura de pantalla (108).png,1366,768,pothole,661,411,777,511
+Captura de pantalla (109).png,1366,768,pothole,590,72,810,492
+Captura de pantalla (110).png,1366,768,pothole,827,557,907,643
+Captura de pantalla (110).png,1366,768,pothole,579,331,674,406
+Captura de pantalla (112).png,1366,768,pothole,681,321,836,365
+Captura de pantalla (109).png,1920,1080,pothole,881,545,1092,610
+Captura de pantalla (109).png,1920,1080,pothole,809,520,909,550
+Captura de pantalla (9).png,1920,1080,pothole,878,388,1029,588
+Captura de pantalla (10).png,1920,1080,pothole,857,450,1025,585
+Captura de pantalla (11).png,1920,1080,pothole,918,440,1087,562
+Captura de pantalla (12).png,1920,1080,pothole,881,390,1022,467
+Captura de pantalla (13).png,1920,1080,pothole,1056,359,1171,423
+Captura de pantalla (14).png,1920,1080,pothole,929,436,991,467
+Captura de pantalla (15).png,1920,1080,pothole,906,375,996,415
+Captura de pantalla (16).png,1920,1080,pothole,997,386,1099,430
+Captura de pantalla (17).png,1920,1080,pothole,710,341,987,499
+Captura de pantalla (18).png,1920,1080,pothole,961,264,1230,343
+Captura de pantalla (1).png,1920,1080,pothole,873,427,1016,496
+Captura de pantalla (19).png,1920,1080,pothole,871,416,1056,520
+Captura de pantalla (20).png,1920,1080,pothole,774,463,1119,660
+Captura de pantalla (21).png,1920,1080,pothole,697,367,932,527
+Captura de pantalla (22).png,1920,1080,pothole,806,277,993,432
+Captura de pantalla (23).png,1920,1080,pothole,909,353,1083,499
+Captura de pantalla (24).png,1920,1080,pothole,883,446,1073,523
+Captura de pantalla (25).png,1920,1080,pothole,560,392,766,486
+Captura de pantalla (25).png,1920,1080,pothole,978,475,1360,775
+Captura de pantalla (26).png,1920,1080,pothole,575,169,712,275
+Captura de pantalla (26).png,1920,1080,pothole,552,134,623,155
+Captura de pantalla (26).png,1920,1080,pothole,673,330,1212,658
+Captura de pantalla (27).png,1920,1080,pothole,777,337,1119,568
+Captura de pantalla (28).png,1920,1080,pothole,973,432,1091,490
+Captura de pantalla (2).png,1920,1080,pothole,888,475,952,511
+Captura de pantalla (29).png,1920,1080,pothole,932,466,1170,628
+Captura de pantalla (29).png,1920,1080,pothole,835,402,952,486
+Captura de pantalla (30).png,1920,1080,pothole,912,403,1023,462
+Captura de pantalla (31).png,1920,1080,pothole,773,424,868,471
+Captura de pantalla (32).png,1920,1080,pothole,758,462,999,656
+Captura de pantalla (33).png,1920,1080,pothole,861,492,1142,562
+Captura de pantalla (34).png,1920,1080,pothole,738,342,923,441
+Captura de pantalla (35).png,1920,1080,pothole,858,460,1093,606
+Captura de pantalla (35).png,1920,1080,pothole,1243,741,1401,808
+Captura de pantalla (36).png,1920,1080,pothole,505,311,1291,485
+Captura de pantalla (37).png,1920,1080,pothole,796,346,1013,459
+Captura de pantalla (38).png,1920,1080,pothole,886,647,1044,768
+Captura de pantalla (38).png,1920,1080,pothole,743,356,853,410
+Captura de pantalla (38).png,1920,1080,pothole,1183,411,1370,505
+Captura de pantalla (3).png,1920,1080,pothole,881,438,945,486
+Captura de pantalla (39).png,1920,1080,pothole,951,297,1151,430
+Captura de pantalla (40).png,1920,1080,pothole,813,225,1131,695
+Captura de pantalla (41).png,1920,1080,pothole,851,447,996,556
+Captura de pantalla (42).png,1920,1080,pothole,813,530,1004,638
+Captura de pantalla (43).png,1920,1080,pothole,848,467,943,549
+Captura de pantalla (43).png,1920,1080,pothole,968,540,1043,594
+Captura de pantalla (43).png,1920,1080,pothole,491,350,727,432
+Captura de pantalla (44).png,1920,1080,pothole,948,446,1049,498
+Captura de pantalla (45).png,1920,1080,pothole,906,433,1004,486
+Captura de pantalla (46).png,1920,1080,pothole,851,414,1019,494
+Captura de pantalla (47).png,1920,1080,pothole,842,518,1005,656
+Captura de pantalla (48).png,1920,1080,pothole,571,307,1197,655
+Captura de pantalla (4).png,1920,1080,pothole,813,380,913,446
+Captura de pantalla (4).png,1920,1080,pothole,583,490,660,547
+Captura de pantalla (49).png,1920,1080,pothole,826,411,996,516
+Captura de pantalla (50).png,1920,1080,pothole,945,485,1069,553
+Captura de pantalla (50).png,1920,1080,pothole,896,546,938,576
+Captura de pantalla (51).png,1920,1080,pothole,890,342,1060,436
+Captura de pantalla (52).png,1920,1080,pothole,756,412,914,563
+Captura de pantalla (52).png,1920,1080,pothole,236,582,432,769
+Captura de pantalla (53).png,1920,1080,pothole,782,399,881,485
+Captura de pantalla (54).png,1920,1080,pothole,973,407,1057,447
+Captura de pantalla (55).png,1920,1080,pothole,655,325,768,437
+Captura de pantalla (55).png,1920,1080,pothole,555,493,771,593
+Captura de pantalla (55).png,1920,1080,pothole,983,386,1081,468
+Captura de pantalla (55).png,1920,1080,pothole,957,467,1170,666
+Captura de pantalla (56).png,1920,1080,pothole,830,460,1030,621
+Captura de pantalla (57).png,1920,1080,pothole,886,540,1062,603
+Captura de pantalla (57).png,1920,1080,pothole,419,468,487,495
+Captura de pantalla (58).png,1920,1080,pothole,696,471,942,567
+Captura de pantalla (5).png,1920,1080,pothole,801,453,1053,523
+Captura de pantalla (59).png,1920,1080,pothole,809,510,986,642
+Captura de pantalla (60).png,1920,1080,pothole,906,441,1114,571
+Captura de pantalla (61).png,1920,1080,pothole,900,515,973,579
+Captura de pantalla (62).png,1920,1080,pothole,883,458,1040,566
+Captura de pantalla (63).png,1920,1080,pothole,921,476,1045,563
+Captura de pantalla (64).png,1920,1080,pothole,875,341,1038,440
+Captura de pantalla (64).png,1920,1080,pothole,912,550,1035,643
+Captura de pantalla (65).png,1920,1080,pothole,805,590,910,653
+Captura de pantalla (65).png,1920,1080,pothole,1042,545,1199,619
+Captura de pantalla (66).png,1920,1080,pothole,778,566,892,638
+Captura de pantalla (66).png,1920,1080,pothole,1035,511,1217,589
+Captura de pantalla (67).png,1920,1080,pothole,878,480,1029,619
+Captura de pantalla (68).png,1920,1080,pothole,891,514,1062,588
+Captura de pantalla (6).png,1920,1080,pothole,844,438,1045,559
+Captura de pantalla (69).png,1920,1080,pothole,905,420,1078,549
+Captura de pantalla (70).png,1920,1080,pothole,940,518,1034,615
+Captura de pantalla (70).png,1920,1080,pothole,1366,512,1481,576
+Captura de pantalla (71).png,1920,1080,pothole,690,471,1103,589
+Captura de pantalla (71).png,1920,1080,pothole,727,838,818,905
+Captura de pantalla (71).png,1920,1080,pothole,609,690,808,781
+Captura de pantalla (71).png,1920,1080,pothole,268,818,375,906
+Captura de pantalla (72).png,1920,1080,pothole,601,482,688,562
+Captura de pantalla (72).png,1920,1080,pothole,891,419,1100,528
+Captura de pantalla (72).png,1920,1080,pothole,981,179,1431,375
+Captura de pantalla (72).png,1920,1080,pothole,996,562,1084,629
+Captura de pantalla (73).png,1920,1080,pothole,1226,527,1360,602
+Captura de pantalla (73).png,1920,1080,pothole,1381,528,1425,563
+Captura de pantalla (73).png,1920,1080,pothole,858,463,1110,575
+Captura de pantalla (73).png,1920,1080,pothole,1384,638,1466,688
+Captura de pantalla (74).png,1920,1080,pothole,929,455,1056,506
+Captura de pantalla (75).png,1920,1080,pothole,701,371,1001,588
+Captura de pantalla (75).png,1920,1080,pothole,751,201,883,238
+Captura de pantalla (76).png,1920,1080,pothole,651,230,826,273
+Captura de pantalla (76).png,1920,1080,pothole,836,464,1083,580
+Captura de pantalla (76).png,1920,1080,pothole,1079,382,1155,447
+Captura de pantalla (77).png,1920,1080,pothole,762,472,1104,555
+Captura de pantalla (77).png,1920,1080,pothole,1593,811,1745,918
+Captura de pantalla (78).png,1920,1080,pothole,814,541,1027,649
+Captura de pantalla (7).png,1920,1080,pothole,886,355,1034,479
+Captura de pantalla (79).png,1920,1080,pothole,697,263,1097,680
+Captura de pantalla (80).png,1920,1080,pothole,912,482,1042,577
+Captura de pantalla (80).png,1920,1080,pothole,866,407,951,460
+Captura de pantalla (81).png,1920,1080,pothole,966,362,1066,451
+Captura de pantalla (81).png,1920,1080,pothole,1149,641,1358,772
+Captura de pantalla (82).png,1920,1080,pothole,860,355,1172,617
+Captura de pantalla (83).png,1920,1080,pothole,821,401,914,473
+Captura de pantalla (83).png,1920,1080,pothole,868,488,1000,556
+Captura de pantalla (84).png,1920,1080,pothole,927,488,1013,537
+Captura de pantalla (85).png,1920,1080,pothole,970,514,1066,612
+Captura de pantalla (85).png,1920,1080,pothole,819,438,886,475
+Captura de pantalla (85).png,1920,1080,pothole,940,392,975,421
+Captura de pantalla (86).png,1920,1080,pothole,816,479,868,553
+Captura de pantalla (86).png,1920,1080,pothole,913,463,965,507
+Captura de pantalla (86).png,1920,1080,pothole,1475,427,1552,490
+Captura de pantalla (86).png,1920,1080,pothole,1455,572,1612,640
+Captura de pantalla (86).png,1920,1080,pothole,1153,528,1264,586
+Captura de pantalla (86).png,1920,1080,pothole,853,575,952,634
+Captura de pantalla (86).png,1920,1080,pothole,1125,476,1217,516
+Captura de pantalla (87).png,1920,1080,pothole,784,380,912,464
+Captura de pantalla (87).png,1920,1080,pothole,1223,354,1288,437
+Captura de pantalla (87).png,1920,1080,pothole,839,589,1026,649
+Captura de pantalla (87).png,1920,1080,pothole,284,605,435,693
+Captura de pantalla (87).png,1920,1080,pothole,70,720,195,762
+Captura de pantalla (87).png,1920,1080,pothole,378,655,564,811
+Captura de pantalla (88).png,1920,1080,pothole,893,433,1021,537
+Captura de pantalla (8).png,1920,1080,pothole,1047,479,1160,540
+Captura de pantalla (89).png,1920,1080,pothole,949,455,1130,588
+Captura de pantalla (90).png,1920,1080,pothole,936,549,1170,649
+Captura de pantalla (90).png,1920,1080,pothole,1282,412,1345,446
+Captura de pantalla (91).png,1920,1080,pothole,692,493,1265,619
+Captura de pantalla (92).png,1920,1080,pothole,779,271,851,358
+Captura de pantalla (92).png,1920,1080,pothole,857,447,1105,685
+Captura de pantalla (93).png,1920,1080,pothole,831,334,1045,627
+Captura de pantalla (94).png,1920,1080,pothole,766,510,1288,695
+Captura de pantalla (94).png,1920,1080,pothole,1544,569,1884,706
+Captura de pantalla (95).png,1920,1080,pothole,851,277,1269,819
+Captura de pantalla (96).png,1920,1080,pothole,809,440,1166,632
+Captura de pantalla (97).png,1920,1080,pothole,884,485,1170,573
+Captura de pantalla (97).png,1920,1080,pothole,645,482,829,537
+Captura de pantalla (98).png,1920,1080,pothole,974,419,1158,488
+Captura de pantalla (98).png,1920,1080,pothole,584,441,893,568
